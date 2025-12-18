@@ -1,7 +1,6 @@
 streamlit
-scipy
-numpy
 pandas
-joblib
+numpy
+scipy
 scikit-learn
-dask
+category-encoders
